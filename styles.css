@@ -4,6 +4,11 @@ body {
 	font-size: 20px;
 	font-weight: 700;
 }
+h3 {
+	font-size: 18px;
+	color: #989898;
+	font-weight: 800;
+	padding: 15px;
 h1 {
 	font-size: 25px;
 	color: #777;
